@@ -1,0 +1,13 @@
+name = "BayesPlots"
+uuid = "193c7f83-fc3f-40b4-b16f-ec9e6feb51fb"
+authors = ["KaoruBB <kaorugmbl1234@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.6.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
