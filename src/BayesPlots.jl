@@ -2,6 +2,7 @@ module BayesPlots
 
 using KernelDensity
 using Plots
+using StatsBase
 using StatsPlots
 
 export plot_posterior_density
